@@ -21,3 +21,8 @@ This is the repo to store file used in this [YouTube Leaning Session](https://yo
 * While Loops
 * Do While loops
 * functions
+
+# Day 4
+* scanf - Built In function
+* Header Files
+* Packaged Development
