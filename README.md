@@ -31,3 +31,12 @@ This is the repo to store file used in this [YouTube Leaning Session](https://yo
 
 * command Line arguments
 * argc & argv
+
+# Lecture 6
+
+* recursion
+
+# Lecture 7
+* file i/o
+* echo
+* cat
