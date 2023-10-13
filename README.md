@@ -40,3 +40,7 @@ This is the repo to store file used in this [YouTube Leaning Session](https://yo
 * file i/o
 * echo
 * cat
+
+# Lecture 8
+* OOP - Object-oriented programming
+* typedef struct
