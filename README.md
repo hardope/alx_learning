@@ -44,3 +44,12 @@ This is the repo to store file used in this [YouTube Leaning Session](https://yo
 # Lecture 8
 * OOP - Object-oriented programming
 * typedef struct
+
+# Lecture 9
+* Dynamic Memory Allocation
+* malloc
+* realloc
+* free
+
+# Lecture 10
+* Pointers
